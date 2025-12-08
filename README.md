@@ -1,4 +1,4 @@
-A Geometric Architecture for Multi-Agent Reasoning
+# A Geometric Architecture for Multi-Agent Reasoning
 
 **Status:** Research prototype / reference implementation  
 **Spec:** “9 Owls System: A Geometric Architecture for Multi-Agent Reasoning” (2025)
