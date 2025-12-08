@@ -1,8 +1,3 @@
-### 2. The 9 Owls System
-
-I have derived this README from the 9 Owls System Specification[cite: 186, 194].
-
-```markdown
 # The 9 Owls System
 
 **A Geometric Cognitive Engine via Topological Synchronization**
@@ -17,6 +12,8 @@ The system's operation is grounded in three physical principles:
 1.  **Topological Necessity:** Agent arrangement follows solutions to the Thomson and Tammes problems (energy minimization/separation maximization).
 2.  **Dynamical Synchronization:** Reasoning is a phase-locking process governed by Kuramoto oscillators.
 3.  **Thermodynamic Regulation:** Exploration is controlled via Langevin dynamics and simulated annealing.
+
+
 
 ## 📐 Geometric Architecture: The Twisted Prism
 
