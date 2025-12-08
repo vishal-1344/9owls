@@ -1,7 +1,7 @@
-# 9 Owls: A Geometric Multi-Agent Cognitive Engine
+# 9 Owls: A Geometric Architecture for Multi-Agent Reasoning
 
 **Status:** Research prototype / reference implementation  
-**Spec:** “9 Owls System: A Geometric Multi-Agent Cognitive Engine” (2025)
+**Spec:** “9 Owls System: A Geometric Architecture for Multi-Agent Reasoning” (2025)
 
 ---
 
@@ -329,4 +329,5 @@ Citation
 If you reference this architecture, please cite:
 
 “9 Owls System: A Geometric Multi-Agent Cognitive Engine,” Technical Report, 2025.
+
 
