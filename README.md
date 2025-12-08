@@ -1,6 +1,6 @@
-# 9 Owls: A Geometric Architecture for High-Level Multi-Agent Reasoning
+# A Geometric Architecture for High-Level Multi-Agent Reasoning
 
-**Project:** 9 Owls – Geometric Multi-Agent Cognitive Engine  
+**Project:** 9 Owls
 **Status:** Research prototype / reference implementation
 
 ---
@@ -212,3 +212,4 @@ The underlying geometry and dynamics are specified in the technical report. Pyth
 If you reference this architecture, please cite:
 
 > **“9 Owls System: A Geometric Multi-Agent Cognitive Engine,” Technical Report, 2025.**
+
